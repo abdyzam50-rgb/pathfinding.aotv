@@ -1,0 +1,9 @@
+{
+    "key.aotvpathfinder.set_target":  "Set Teleport Goal",
+    "key.aotvpathfinder.build_path":  "Build AOTV Path",
+    "key.aotvpathfinder.clear_path":  "Clear AOTV Path",
+    "key.aotvpathfinder.assist_next_hop":  "Assist Next Hop",
+    "key.aotvpathfinder.toggle_auto":  "Toggle Auto Hop",
+    "key.aotvpathfinder.toggle_live_ai":  "Toggle Live AI",
+    "key.categories.aotvpathfinder.general":  "AOTV Pathfinder"
+}

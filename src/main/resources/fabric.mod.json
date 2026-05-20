@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "aotv-pathfinder",
+  "version": "${version}",
+  "name": "AOTV Pathfinder",
+  "description": "Hypixel SkyBlock Aspect of the Void pathfinding helper with mana tracking and teleport preview.",
+  "authors": ["abdy2"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.abdy2.aotvpathfinder.AotvPathfinderClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
+
+
